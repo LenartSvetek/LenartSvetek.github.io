@@ -1,1 +1,0 @@
-import{a as s,H as e}from"./axios-BfZbJj6M.js";import{u as a}from"./useQuery-B4_40vxC.js";const n=()=>a({queryKey:["tables"],queryFn:async()=>{const t=await s.get("/tables/");if(t.status!=e.Ok)throw new Error(`[Error ${t.status}]: ${t.statusText}`);return t.data}});export{n as u};
