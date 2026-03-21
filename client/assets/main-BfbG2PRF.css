@@ -1,0 +1,1 @@
+.table{padding:25px;box-sizing:border-box}.table table td{border:1px solid black}.table table td div{display:flex;justify-content:center;align-items:center;width:32px;height:32px;padding:0;margin:0;box-sizing:border-box;text-transform:uppercase}.table table td div.correct{background-color:green}.table table td div.wrong-place{background-color:orange}

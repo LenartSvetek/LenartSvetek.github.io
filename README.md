@@ -1,2 +1,0 @@
-# LenartSvetek.github.io
-Hi
